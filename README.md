@@ -33,7 +33,7 @@ UPSC AI is a full-stack application designed to help Civil Services examination 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/supernova0311/upsc-digest.git
+   git clone 
    cd civil-services-ai---upsc-news-&-notes
    ```
 
