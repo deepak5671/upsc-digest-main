@@ -155,7 +155,7 @@ Choose from 9 major news sources:
 - **The Hindu (Editorials)** - Editorials, opinion pieces, and analysis
 - **Indian Express** - Explained series, economy, and politics
 - **PIB** - Government schemes, cabinet decisions, press releases
-- **Livemint** - Indian economy, banking, and finance
+- **Livemint** - Indian economy, banking, and finance, Trading
 - **Economic Times** - Macroeconomy, RBI, and fiscal policy
 - **Business Standard** - Business, infrastructure, and policy
 - **Sansad TV** - Parliamentary debates, bills passed, committees
@@ -463,7 +463,7 @@ npm install
 
 **No data persisting**
 - Check MongoDB connection is established (look for ✅ message in console)
-- Verify user is authenticated
+- Verify user is authenticated 
 - Check browser localStorage isn't disabled
 
 ### AI Generation Fails
@@ -510,7 +510,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ## 📞 Support & Contact
 
 - **Issues**: Report bugs in GitHub Issues
-- **Email**: ayushkumar.inspire@gmail.com
+- **Email**: deepak183654@gmail.com
 - **Documentation**: See PROJECT_REPORT.md for technical details
 
 ---
