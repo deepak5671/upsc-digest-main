@@ -1,13 +1,3 @@
-# 📊 UPSC AI - Project Report & Technical Documentation
-
-**Project Name**: Civil Services AI - UPSC News & Notes Platform
-**Version**: 1.0.0
-**Date**: December 11, 2025
-**Team**: Ayush Kumar
-**Repository**: https://github.com/supernova0311/upsc-digest
-
----
-
 ## Table of Contents
 
 1. [Executive Summary](#executive-summary)
